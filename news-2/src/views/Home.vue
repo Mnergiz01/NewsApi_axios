@@ -53,7 +53,7 @@ import axios from 'axios'
 // State
 const articles = ref([])
 const loading = ref(false)
-const searchQuery = ref('')
+const searchQuery = ref('apple')
 
 // API Config
 const API_KEY = '98b252020f1740c08a5b52b91c856c6a'
